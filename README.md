@@ -50,7 +50,7 @@ AutoAudit shows ads via Google AdMob, mediated through **AppLovin** and **Unity 
 You can permanently delete your account and data at any time:
 
 - **In the App:** Settings → Account → Delete Account. This immediately wipes your local database, preferences, disconnects Google Drive backup, and deletes your Firebase Authentication record.
-- **By email**, if you've already uninstalled the App: **aditya@adilabz.com**, subject "Data Deletion Request - AutoAudit". We purge all cloud-associated data within 7 business days.
+- **By email**, if you've already uninstalled the App: **adilabz1405@gmail.com**, subject "Data Deletion Request - AutoAudit". We purge all cloud-associated data within 7 business days.
 
 Full details: [Account Deletion Request](https://adilabz-orgsec.github.io/autoaudit-policy/)
 
@@ -76,4 +76,4 @@ We'll update this page when what the App collects or does changes, and update th
 
 ## Contact
 
-Adilabz-Orgsec — **aditya@adilabz.com**
+Adilabz-Orgsec — **adilabz1405@gmail.com**
